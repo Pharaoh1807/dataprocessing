@@ -104,3 +104,4 @@ def main():
            data_analysis(df)
            data_visualization(df)
            feedback_form()
+main()
